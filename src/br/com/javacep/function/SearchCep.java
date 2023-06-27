@@ -3,7 +3,6 @@ package br.com.javacep.function;
 import br.com.javacep.model.Address;
 import com.google.gson.Gson;
 
-import java.io.IOException;
 import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
